@@ -8,10 +8,14 @@
 ![Eggman_talk](https://img.wattpad.com/dba1b0a776ee30ba55437d47bc6a4dc1455353f9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f77573776666b326336444d6642513d3d2d313335383434343531312e313736653231353335653139666339343238343232393631353835352e676966)
 
 <div style="display: inline_block"><br>
-  <P>Conhecimento de linguagens:</P>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>Conhecimentos:</h3>
+  <h4>Linguagens de programação:<h4>
+  <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h4>Linguagens de marcação:<h4>
+  <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h4>Frameworks:<h4>
+
 </div>
   
   ##
