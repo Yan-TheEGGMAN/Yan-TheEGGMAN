@@ -12,7 +12,7 @@
   <h3>Conhecimentos:</h3>
   <h4>🗨️Linguagens de programação:</h4>
   <img align="center" alt="Yan-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
+   <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png">
   <h4>🔆Linguagens de marcação:</h4>
   <img align="center" alt="Yan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
