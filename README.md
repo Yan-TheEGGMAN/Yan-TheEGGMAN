@@ -39,35 +39,37 @@
   ![Eggman_saxophone](https://media.tenor.com/DbjYg1N826kAAAAi/eggman-saxophone.gif)
 
   <h2><sub>jogos de interesse🎮</sub></h2>
-  <p align="center">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5dfa.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t2.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co279z.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7qc6.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co46s3.jpg" width="18%">
-  </p>
-   <p align="center">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9n5k.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5wgw.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u07.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8fu7.jpg" width="18%">
-    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co214e.jpg" width="18%">
-  </p>
+
+<p align="center">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5dfa.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t2.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co279z.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7qc6.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co46s3.jpg" height="220" width="170px">
+</p>
+
+<p align="center">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9n5k.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5wgw.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u07.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8fu7.jpg" height="220" width="170px">
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co214e.jpg" height="220" width="170px">
+</p>
 
    <h2><sub>Entretenimentos de Interesse🎬</sub></h2>
   <p align="center">
-    <img src="https://resizing.flixster.com/kqKSnwQSMZ_mnjNys9cQdWJUg8Q=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25535878_b_v8_ad.jpg" width="18%">
-    <img src="https://resizing.flixster.com/g9RnCRG35Apdc17FWRvmRF2mEgo=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18845656_p_v8_ac.jpg" width="18%">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNmU3ZGFhMmYtNzczYy00NTE0LThkYjgtNWFiYTY2NzRkM2QzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
-    <img src="https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png/revision/latest?cb=20220920072704" width="18%">
+    <img src="https://resizing.flixster.com/kqKSnwQSMZ_mnjNys9cQdWJUg8Q=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25535878_b_v8_ad.jpg" height="220" width="170px">
+    <img src="https://resizing.flixster.com/g9RnCRG35Apdc17FWRvmRF2mEgo=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18845656_p_v8_ac.jpg" height="220" width="170px">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNmU3ZGFhMmYtNzczYy00NTE0LThkYjgtNWFiYTY2NzRkM2QzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="170px">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="170px">
+    <img src="https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png/revision/latest?cb=20220920072704" height="220" width="170px">
   </p>
    <p align="center">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZWI4OTVkNDgtOTBmMC00M2I3LTk3NTctOWY3NmRkODIxMDViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
-    <img src="https://m.media-amazon.com/images/I/81GyqsC7hSL.jpg" width="18%">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" width="18%">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="170px">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75"height="220" width="170px">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZWI4OTVkNDgtOTBmMC00M2I3LTk3NTctOWY3NmRkODIxMDViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="170px">
+    <img src="https://m.media-amazon.com/images/I/81GyqsC7hSL.jpg" height="220" width="170px">
+    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="170px">
   </p>
 
 </div>
