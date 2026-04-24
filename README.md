@@ -17,18 +17,18 @@
    
   <h4>🔆Linguagens de marcação:</h4>
   <p>
-    <img align="center" alt="Yan-HTML" height="40" width="40" src="assets/html.png">
-    <img align="center" alt="Yan-CSS" height="40" width="40" src="assets/css.webp">
+    <img align="center" alt="Yan-HTML" height="40" width="40" src="assets/conhecimento/marc/html.png">
+    <img align="center" alt="Yan-CSS" height="40" width="40" src="assets/conhecimento/marc/css.webp">
   </p>
   
   <h4>🧩Frameworks:</h4>
   <p>
-    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/flask2.png">
+    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/conhecimento/frame/flask.png">
   </p>
   
   <h4>🗄️Banco de Dados:</h4>
   <p>
-    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/mysql.webp">
+    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/conhecimento/banco/mysql.webp">
   </p>
 <div> 
   
@@ -58,18 +58,18 @@
 
    <h2><sub>Entretenimentos de Interesse🎬</sub></h2>
   <p align="center">
-    <img src="https://resizing.flixster.com/kqKSnwQSMZ_mnjNys9cQdWJUg8Q=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25535878_b_v8_ad.jpg" height="220" width="160px">
-    <img src="https://resizing.flixster.com/g9RnCRG35Apdc17FWRvmRF2mEgo=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18845656_p_v8_ac.jpg" height="220" width="160px">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNmU3ZGFhMmYtNzczYy00NTE0LThkYjgtNWFiYTY2NzRkM2QzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="160px">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="160px">
-    <img src="https://static.wikia.nocookie.net/bocchi-the-rock/images/4/44/Bocchi_the_Rock%21_Anime_Main_Key_Visual.png/revision/latest?cb=20220920072704" height="220" width="160px">
+    <img src="assets/entret/apotecaria.jpg" height="220" width="160px">
+    <img src="assets/entret/abyss.jpg" height="220" width="160px">
+    <img src="assets/entret/dungeon.webp" height="220" width="160px">
+    <img src="assets/entret/fullmetal.webp" height="220" width="160px">
+    <img src="assets/entret/bocchi.webp" height="220" width="160px">
   </p>
    <p align="center">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="160px">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75"height="220" width="160px">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZWI4OTVkNDgtOTBmMC00M2I3LTk3NTctOWY3NmRkODIxMDViXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="160px">
-    <img src="https://m.media-amazon.com/images/I/81GyqsC7hSL.jpg" height="220" width="160px">
-    <img src="https://seriesrating.sandipmaity.me/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc%40._V1_SX300.jpg&w=640&q=75" height="220" width="160px">
+    <img src="assets/entret/serieMaravilhosamenteIncrivel.webp" height="220" width="160px">
+    <img src="assets/entret//chainsaw.webp"height="220" width="160px">
+    <img src="assets/entret/rezero.webp" height="220" width="160px">
+    <img src="assets/entret/jojo.jpg" height="220" width="160px">
+    <img src="assets/entret/violet.webp" height="220" width="160px">
   </p>
 
 </div>
