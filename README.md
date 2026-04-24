@@ -12,8 +12,7 @@
   <h4>🗨️Linguagens de programação:</h4>
   <p>
     <img align="center" alt="Yan-python" height="40" width="40" src="assets/python.png">
-
-    
+    <img align="center" alt="yan-JS" height="40" width="40" src="assets/js.webp">
   </p>
    
   <h4>🔆Linguagens de marcação:</h4>
