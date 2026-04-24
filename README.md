@@ -28,7 +28,7 @@
   
   <h4>🗄️Banco de Dados:</h4>
   <p>
-    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/mysql.png">
+    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/mysql.webp">
   </p>
 <div> 
   
