@@ -12,16 +12,17 @@
   <h3>Conhecimentos:</h3>
   <h4>🗨️Linguagens de programação:</h4>
   <img align="center" alt="Yan-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png">
+  <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png">
+   
   <h4>🔆Linguagens de marcação:</h4>
   <img align="center" alt="Yan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <h4>🧩Frameworks:</h4>
   <img align="center" alt="Yan-flask" height="40" width="40" src="assets/flask2.png">
+  
   <h4>🗄️Banco de Dados:</h4>
   <img align="center" alt="Yan-flask" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png?raw=true">
-
-
 
 </div>
 <div> 
