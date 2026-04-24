@@ -11,7 +11,7 @@
   
   <h3>Conhecimentos:</h3>
   <h4>🗨️Linguagens de programação:</h4>
-  <img align="center" alt="Yan-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ ![python](https://github.com/Yan-TheEGGMAN/Yan-TheEGGMAN/blob/main/assets/python.png?raw=true)
   <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png">
    
   <h4>🔆Linguagens de marcação:</h4>
