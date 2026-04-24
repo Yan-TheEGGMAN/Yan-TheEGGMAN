@@ -41,19 +41,19 @@
   <h2><sub>jogos de interesse🎮</sub></h2>
 
 <p align="center">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5dfa.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t2.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co279z.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co7qc6.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co46s3.jpg" height="220" width="160px">
+  <img src="assets/jogos/tboi.jpg" height="220" width="160px">
+  <img src="assets/jogos/undertale.jpg" height="220" width="160px">
+  <img src="assets/jogos/helltaker.jpg" height="220" width="160px">
+  <img src="assets/jogos/fnaf.jpg" height="220" width="160px">
+  <img src="assets/jogos/ultrakill.jpg" height="220" width="160px">
 </p>
 
 <p align="center">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co9n5k.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5wgw.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1u07.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8fu7.jpg" height="220" width="160px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co214e.jpg" height="220" width="160px">
+  <img src="assets/jogos/meowgenics.jpg" height="220" width="160px">
+  <img src="assets/jogos/fominha.jpg" height="220" width="160px">
+  <img src="assets/jogos/p4.jpg" height="220" width="160px">
+  <img src="assets/jogos/mine.jpg" height="220" width="160px">
+  <img src="assets/jogos/marioKart.jpg" height="220" width="160px">
 </p>
 
    <h2><sub>Entretenimentos de Interesse🎬</sub></h2>
