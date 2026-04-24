@@ -7,32 +7,39 @@
 
 ![Eggman_talk](https://img.wattpad.com/dba1b0a776ee30ba55437d47bc6a4dc1455353f9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f77573776666b326336444d6642513d3d2d313335383434343531312e313736653231353335653139666339343238343232393631353835352e676966)
 
-<div style="display: inline-block"><br>
   
   <h3>Conhecimentos:</h3>
   <h4>🗨️Linguagens de programação:</h4>
- ![python](https://github.com/Yan-TheEGGMAN/Yan-TheEGGMAN/blob/main/assets/python.png?raw=true)
-  <img align="center" alt="Yan-JS" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/066/386/002/non_2x/javascript-programming-icon-logo-free-png.png">
+  <p>
+    <img align="center" alt="Yan-python" height="40" width="40" src="assets/python.png">
+
+    
+  </p>
    
   <h4>🔆Linguagens de marcação:</h4>
-  <img align="center" alt="Yan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <p>
+    <img align="center" alt="Yan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Yan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </p>
   
   <h4>🧩Frameworks:</h4>
-  <img align="center" alt="Yan-flask" height="40" width="40" src="assets/flask2.png">
+  <p>
+    <img align="center" alt="Yan-flask" height="40" width="40" src="assets/flask2.png">
+  </p>
   
   <h4>🗄️Banco de Dados:</h4>
-  <img align="center" alt="Yan-flask" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png?raw=true">
-
-</div>
+  <p>
+    <img align="center" alt="Yan-flask" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png?raw=true">
+  </p>
 <div> 
-  <h1>🦐Além de programação🦐<h1/>
+  
+  <h1>🦐Além de programação🦐</h1>
   <a href="https://www.youtube.com/@PLUSHunidos13/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <p><sub>Meu canal do yotube :)</sub></p>
     
   ![Eggman_saxophone](https://media.tenor.com/DbjYg1N826kAAAAi/eggman-saxophone.gif)
 
-  <p><sub>jogos de interesse🎮</sub></p>
+  <h2><sub>jogos de interesse🎮</sub></h2>
   <p align="center">
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co5dfa.jpg" width="18%">
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cob1t2.jpg" width="18%">
@@ -48,7 +55,7 @@
     <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co214e.jpg" width="18%">
   </p>
 
-   <p><sub>Entretenimentos de Interesse🎬</sub></p>
+   <h2><sub>Entretenimentos de Interesse🎬</sub></h2>
   <p align="center">
     <img src="https://resizing.flixster.com/kqKSnwQSMZ_mnjNys9cQdWJUg8Q=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25535878_b_v8_ad.jpg" width="18%">
     <img src="https://resizing.flixster.com/g9RnCRG35Apdc17FWRvmRF2mEgo=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18845656_p_v8_ac.jpg" width="18%">
