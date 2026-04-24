@@ -17,8 +17,8 @@
    
   <h4>🔆Linguagens de marcação:</h4>
   <p>
-    <img align="center" alt="Yan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Yan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Yan-HTML" height="40" width="40" src="assets/html.png">
+    <img align="center" alt="Yan-CSS" height="40" width="40" src="assets/css.webp">
   </p>
   
   <h4>🧩Frameworks:</h4>
